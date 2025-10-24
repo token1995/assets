@@ -1,1 +1,11 @@
-
+{
+    "name": "Goldix",
+    "website": "https://bscscan.com/token/0x0f27884517be866e122be13ca8eeea4a7bfaa7c4",
+    "description": "Goldix Token on BSC",
+    "explorer": "https://bscscan.com/token/0x0f27884517be866e122be13ca8eeea4a7bfaa7c4",
+    "type": "BEP20",
+    "symbol": "GLDX",
+    "decimals": 18,
+    "status": "active",
+    "id": "GLDX"
+}
